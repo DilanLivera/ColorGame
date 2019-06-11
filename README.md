@@ -1,5 +1,7 @@
 # colorgame
-A simple color guessing game. app displays rgb values to the user, user needs to pick the correct color for rgb values displayed. Play to find out your rgb skills.
+A simple color guessing game. app displays rgb values to the user, user needs to pick the correct color for rgb values displayed. Play and find out your rgb skills. 
+
+This app was built using HTML, CSS and JavaScript.
 
 [Live site](https://dilanlivera.github.io/colorgame/)
 
@@ -9,4 +11,4 @@ A simple color guessing game. app displays rgb values to the user, user needs to
 
 ![alt text](https://github.com/DilanLivera/colorgame/blob/master/img/colorgame-3.jpg)
 
-This app was built using HTML, CSS and JavaScript.
+
