@@ -5,8 +5,8 @@ A simple color guessing game. app displays rgb values to the user, user needs to
 
 ![alt text](https://github.com/DilanLivera/colorgame/blob/master/img/colorgame.jpg)
 
-![alt text](https://github.com/DilanLivera/colorgame/blob/master/img/colorgame-1.jpg)
-
 ![alt text](https://github.com/DilanLivera/colorgame/blob/master/img/colorgame-2.jpg)
+
+![alt text](https://github.com/DilanLivera/colorgame/blob/master/img/colorgame-3.jpg)
 
 This app was built using HTML, CSS and JavaScript.
