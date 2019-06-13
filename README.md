@@ -3,7 +3,7 @@ A simple color guessing game. app displays rgb values to the user, user needs to
 
 This app was built using HTML, CSS and JavaScript.
 
-[Live site](https://dilanlivera.github.io/colorgame/)
+[Live Demo](https://dilanlivera.github.io/colorgame/)
 
 ![alt text](https://github.com/DilanLivera/colorgame/blob/master/img/colorgame.jpg)
 
